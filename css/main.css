@@ -1,0 +1,9 @@
+.box {
+  font-family: sans-serif;
+  padding: 20px;
+  width: 70%;
+  margin: 150px auto;
+  border: 1px solid silver;
+  border-radius: 10px;
+  text-align: justify;
+}
